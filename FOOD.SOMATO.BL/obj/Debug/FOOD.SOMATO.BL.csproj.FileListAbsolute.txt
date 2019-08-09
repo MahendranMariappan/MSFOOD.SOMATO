@@ -1,0 +1,5 @@
+C:\Users\mmariappan2\Documents\Visual Studio 2015\Projects\HandsOn\FOOD.SOMATO\FOOD.SOMATO.BL\bin\Debug\FOOD.SOMATO.BL.dll
+C:\Users\mmariappan2\Documents\Visual Studio 2015\Projects\HandsOn\FOOD.SOMATO\FOOD.SOMATO.BL\bin\Debug\FOOD.SOMATO.BL.pdb
+C:\Users\mmariappan2\Documents\Visual Studio 2015\Projects\HandsOn\FOOD.SOMATO\FOOD.SOMATO.BL\obj\Debug\FOOD.SOMATO.BL.csprojResolveAssemblyReference.cache
+C:\Users\mmariappan2\Documents\Visual Studio 2015\Projects\HandsOn\FOOD.SOMATO\FOOD.SOMATO.BL\obj\Debug\FOOD.SOMATO.BL.dll
+C:\Users\mmariappan2\Documents\Visual Studio 2015\Projects\HandsOn\FOOD.SOMATO\FOOD.SOMATO.BL\obj\Debug\FOOD.SOMATO.BL.pdb
